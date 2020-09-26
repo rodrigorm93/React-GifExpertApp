@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Proyecto en React con conexion a la API de: https://developers.giphy.com
+
+publicado en : https://rodrigorm93.github.io/React-GifExpertApp/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
